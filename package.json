@@ -1,0 +1,24 @@
+{
+  "name": "homework1",
+  "version": "0.0.9",
+  "description": "Pirple Node.js mastering — homework#1",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KamilOcean/pirple-nodejs-homework1.git"
+  },
+  "keywords": [
+    "pirple",
+    "nodejs"
+  ],
+  "author": "KamilOcean",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KamilOcean/pirple-nodejs-homework1/issues"
+  },
+  "homepage": "https://github.com/KamilOcean/pirple-nodejs-homework1#readme"
+}
